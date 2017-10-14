@@ -4,7 +4,6 @@
 #include <glm/glm.hpp>
 
 #include "c_entity.h"
-#include "../mesh.h"
 
 /* fwd */
 class btRigidBody;
