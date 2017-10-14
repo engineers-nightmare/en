@@ -228,3 +228,6 @@ configs/user/
 
 # don't ignore meshes
 !mesh/*
+
+# jetbrains
+.idea
